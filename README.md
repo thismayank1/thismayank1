@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about **Ma
 
 🌱 **What I'm Currently Learning:**  
 - Advanced **Data Analysis & Visualization** using **Power BI**  
-- Enhancing my **Machine Learning** skills  
 - Improving **Web Development** skills  
 
 📌 **Notable Projects:**  
