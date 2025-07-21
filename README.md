@@ -32,13 +32,8 @@ Welcome to my GitHub profile! I'm a **Software Developer** passionate about **Ma
 
 📈 **GitHub Stats:**  
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thismayank1&show_icons=true&theme=tokyonight)  
-### 📈 GitHub Stats
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thismayank1&show_icons=true&theme=tokyonight)
-
----
-
-### 🌐 Most Used Languages (Live)
+🌐 **Most Used Languages (Live)**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thismayank1&layout=compact&theme=tokyonight)
 
